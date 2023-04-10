@@ -16,7 +16,7 @@ on:
         options:
           - '1.1'
           - '2.5'
-          - '3.7'
+          - '3.9'
   push:
     branches: [ main ]
 
