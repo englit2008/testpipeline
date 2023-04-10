@@ -37,7 +37,7 @@ jobs:
     - name: Test our shell script
       run: |     
       # davamate echos xazi - manamde ar qonda 
-         echo ${{ inputs.SomeOptions.options}}
+         echo ${{ inputs.SomeOption.options }}
          pip install pandas
          pip install setuptools
 
