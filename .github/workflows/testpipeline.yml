@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
   steps:
-    - name: Clone
+    - name: Clones
       uses: actions/checkout@v2
 
     - name: Set up Python
